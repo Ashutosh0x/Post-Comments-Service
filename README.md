@@ -10,8 +10,7 @@ Follow these steps to install and run the application locally:
 
 1. Clone the repository:
 
-   ```bash
-  https://github.com/Ashutosh0x/Post-Comments-Service.git
+   ```bash  https://github.com/Ashutosh0x/Post-Comments-Service.git
 
 2. Navigate to the project directory:
    ```bash
